@@ -1,0 +1,49 @@
+header {
+  background-color: #DDDDDD;
+  display: flex;
+  align-items: center;
+}
+
+header img {
+  height: 6em;
+}
+
+header h1 {
+  font-family: 'Stick', sans-serif;
+}
+
+nav {
+  background-color: #DDDDDD;
+}
+
+nav a {
+  font-family: 'Akaya Telivigala', sans-serif;
+  text-decoration: none;
+  color: black;
+  background-color: white;
+  display: block;
+  margin-bottom: 0.25em;
+  padding-left: 0.25em;
+  padding-right: 0.25em;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  font-family: 'Roboto', sans-serif;
+}
+
+main em {
+  font-weight: bold;
+}
+
+footer {
+  height: 5em;
+  background-color: #DDDDDD;
+}
+
+footer p {
+  text-align: center;
+}
